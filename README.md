@@ -1,7 +1,7 @@
 # HR-Manager
 
 ## Klassendiagram
-![CLD Diagram](./Klassendiagramm.jpg)
+![CLD Diagram](./Klassendiagramm.png)
 ## Sprachen
 -Html, CSS, Javascript
 -PHP, SQL
